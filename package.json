@@ -1,5 +1,5 @@
 {
-  "name": "@local/dsh-plugin-deliverable-link-route",
+  "name": "dsh-plugin-deliverable-link-route",
   "version": "1.0.0",
   "type": "module",
   "description": "Host half of the Deliverable Hover Menu: performs open, reveal, copy-file and copy-path actions for conversation file links.",
